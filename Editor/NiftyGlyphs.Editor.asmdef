@@ -1,0 +1,17 @@
+{
+    "name": "NiftyGlyphs.Editor",
+    "rootNamespace": "NiftyGlyphs",
+    "references": [
+        "GUID:d456ce7522f356741b6b6b9b4604f1e1",
+        "GUID:497348a8c13a0a843a23f83c649bccc8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

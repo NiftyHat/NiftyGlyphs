@@ -1,0 +1,21 @@
+{
+  "name": "com.niftyhat.glyphs",
+  "version": "0.1.0",
+  "displayName": "Nifty Unicode Glyphs",
+  "description": "Unicode Glyphs",
+  "keywords": [
+    "NiftyFramework",
+    "Serialization",
+    "ScriptableObject"
+  ],
+  "author": {
+    "name": "Duncan Saunders",
+    "email": "duncan@niftyhat.com",
+    "url": "https://www.niftyhat.com"
+  },
+  "dependencies":
+  {
+    "com.niftyhat.niftycore": "0.0.1",
+    "com.niftyhat.editormenu": "0.4.0"
+  }
+}
