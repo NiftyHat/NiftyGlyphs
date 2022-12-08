@@ -8,7 +8,7 @@ using Object = UnityEngine.Object;
 
 namespace NiftyGlyphs
 {
-    public class AssetTreeView<TAsset> : UnityEditor.IMGUI.Controls.TreeView where TAsset : UnityEngine.Object
+    public class AssetTreeView<TAsset> : TreeView where TAsset : UnityEngine.Object
     {
         public class AssetTreeViewItem : TreeViewItem
         {

@@ -1,6 +1,6 @@
 {
   "name": "com.niftyhat.glyphs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "Nifty Unicode Glyphs",
   "description": "Unicode Glyphs",
   "keywords": [
@@ -15,7 +15,7 @@
   },
   "dependencies":
   {
-    "com.niftyhat.niftycore": "0.0.1",
-    "com.niftyhat.editormenu": "0.4.0"
+    "com.niftyhat.niftycore": "0.1.7",
+    "com.niftyhat.editormenu": "0.4.1"
   }
 }
